@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"goframe/internal/controllers"
-	"goframe/internal/usecases"
+	"goframe/api/controllers"
+	"goframe/api/usecases"
 
 	"github.com/gin-gonic/gin"
 )

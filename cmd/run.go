@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"disscussion-forum/api"
+	"goframe/api"
 
 	"github.com/spf13/cobra"
 )
@@ -17,5 +17,5 @@ var startCmd = &cobra.Command{
 
 func init() {
 
-	// rootCmd.AddCommand(startCmd)
+	rootCmd.AddCommand(startCmd)
 }

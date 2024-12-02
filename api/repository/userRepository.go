@@ -2,7 +2,7 @@ package repository
 
 import (
 	"context"
-	"goframe/internal/models"
+	"goframe/api/models"
 
 	"gorm.io/gorm"
 )

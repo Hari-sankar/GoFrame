@@ -17,7 +17,7 @@ var rootCmd = &cobra.Command{
 	Long:  ``,
 
 	Run: func(cmd *cobra.Command, args []string) {
-		fmt.Println("This is a api server for disscussion forum platform")
+		fmt.Println("This is a api server boilerplate")
 
 	},
 }

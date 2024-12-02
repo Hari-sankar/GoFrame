@@ -2,8 +2,8 @@ package usecases
 
 import (
 	"context"
-	"goframe/internal/models"
-	"goframe/internal/repository"
+	"goframe/api/models"
+	"goframe/api/repository"
 )
 
 type UserUseCase struct {

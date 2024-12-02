@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"goframe/internal/models"
-	"goframe/internal/usecases"
+	"goframe/api/models"
+	"goframe/api/usecases"
 	"net/http"
 	"strconv"
 
